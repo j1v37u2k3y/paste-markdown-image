@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.j1v37u2k3y.pastemarkdownimage
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

@@ -1,9 +1,9 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.j1v37u2k3y.pastemarkdownimage.listeners
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import org.jetbrains.plugins.template.services.MyProjectService
+import com.github.j1v37u2k3y.pastemarkdownimage.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 
